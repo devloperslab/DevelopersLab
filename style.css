@@ -20,9 +20,8 @@ a {
 
 :root {
     --color-1: #FDFFFC;
-    --color-2: #cbf8f8ea;
-    --color-3: #47BBB0;
-    --color-4: #FDFFFC;
+    --color-2: #17A99C;
+    --color-3: #1A1E26;
 
     font-size: 10px;
 }
@@ -67,22 +66,22 @@ main header img {
 main header h1 {
     margin-top: 2rem;
 
-    font-size: 2.6rem;
+    font-size: 3rem;
     font-weight: 600;
 }
 
 main header a {
     margin-top: .4rem;
 
-    font-size: 1.7rem;
-    font-weight: 350;
+    font-size: 1.8rem;
+    font-weight: 300;
     color: var(--color-2);
 
     transition: color .2s;
 }
 
 main header a:hover {
-    color: var(--color-4);
+    color: var(--color-1);
 }
 
 
