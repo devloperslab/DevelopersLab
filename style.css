@@ -88,7 +88,7 @@ main header a:hover {
 
 
 main ul {
-    margin-top: 8rem;
+    margin-top: 5rem;
 
     display: grid;
     justify-items: center;
@@ -118,7 +118,7 @@ main ul li a {
 }
 
 main ul li a p {
-    font-family: Helvetica, sans-serif;
+    font-family: 'Helvetica Neue', sans-serif;
     font-size: 15px;
     color: #FDFFFC;
     margin-left: 20px;
