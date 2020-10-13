@@ -88,12 +88,12 @@ main header a:hover {
 
 
 main ul {
-    margin-top: 5rem;
+    margin-top: 4rem;
 
     display: grid;
     justify-items: center;
     grid-template-columns: 100%;
-    gap: 4rem;
+    gap: 3.5rem;
 }
 
 main ul li {
